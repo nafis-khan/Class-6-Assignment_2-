@@ -1,0 +1,319 @@
+*{
+    margin: 0px;
+    padding: 0;
+    }
+    
+header{
+    
+        width: 70%;
+        margin: auto;
+        overflow: hidden;
+        margin-top: 23px;
+    }
+    
+    
+.logo {
+        float: left;
+    }
+    
+nav{
+        float: left;
+    }
+    
+nav ul{
+        list-style: none;
+        style: none;
+        style: none;
+    }
+    
+nav ul li {
+        
+        float: left; 
+         margin-top: 22px;
+        font-size: 18px;
+        float-left: 9px;
+        margin-left: 32px;
+    }
+    
+    
+.purchase_button {
+        background-color: #FF6162;
+        float: right;
+        padding: 15px;
+        color: white;
+        margin-top: 15px;
+    }
+
+
+
+
+
+
+
+
+    .main_content{
+        width: 70%;
+        margin: auto;
+        margin-top: 175px;
+        overflow: hidden;
+    }
+    
+    
+    .left_content{
+    
+        text-align: left;
+    
+        float: left;
+    
+        width: 51%;
+    
+        margin-top: 32px;
+    }
+        
+        
+    .left_content h1{
+        
+        font-size: 50px;
+        margin-bottom: 20px;
+    
+    }
+
+
+    .left_content img{
+
+        width: 29px;
+    
+    }
+        
+        
+    .left_content p{
+        
+        margin-bottom: 20px;
+        font-size: 17px;
+        color: #696872;
+    }
+        
+        
+    .right_content{
+        
+        width: 48%;    
+        float: right;
+    }
+            
+            
+    .right_content img{
+            
+        width: 97%;
+            
+        float: right;
+     }
+
+
+     .demo{
+
+        overflow: hidden;
+        
+        width: 90%;
+        
+        margin: auto;
+        
+        margin-top: 337px;
+        }
+                
+                
+        .demo h2{
+                
+text-align: center;
+                
+margin-bottom: 10px;
+                
+font-size: 29px;
+        }
+                
+                
+        .demo p{
+                
+        text-align: center;
+        color: #696872;
+        
+        }
+        
+        
+        .demo_websites{
+        
+            margin-top: 25px;
+            overflow: hidden;
+        
+        }
+        
+        
+     
+        
+    .website_one img, .website_two img, .website_three img, .website_four img{
+            width: 24%;
+            float: left;
+            margin-left: 1%;
+        }
+
+
+
+
+
+
+.feature_text{
+    text-align: Center;
+    margin-bottom: 10px;
+}
+
+
+.feature_text h1{
+    font-size: 29px;
+    margin-bottom: 1%;
+}
+
+.feature_text p{
+    margin-bottom: 2%;
+    color: #696872;
+}
+
+
+
+.feature_section_one{
+    overflow: hidden;
+    width: 90%;
+    margin: auto;
+
+}
+
+.feature_one, .feature_two, .feature_three{
+
+    width: 23.333%;
+    height: 152px;
+    float: left;
+    margin-left: 5%;
+    text-align: center;
+    background: #F5F5F5;
+    padding: 50px 30px;
+
+}
+
+.feature_three img{
+    width: 36%;
+
+}
+
+.feature_section_two{
+    overflow: hidden;
+    width: 90%;
+    margin: auto;
+    margin-top: 2%;
+
+}
+
+.feature_four, .feature_five, .feature_six{
+
+    width: 23.333%;
+    height: 152px;
+    float: left;
+    margin-left: 5%;
+    text-align: center;
+    background: #F5F5F5;
+    padding: 50px 30px;
+    }
+
+
+.footerback{
+
+    margin-top: 127px;            
+    background: #292640;
+    overflow: hidden;
+    }
+                        
+.footerback h1{
+                        
+        text-align: center;
+                                
+        color: white;
+                                
+        padding-top: 85px;
+                                
+        font-size: 32px;
+ }
+                    
+        
+.footerback h2{
+                                
+        text-align: center;
+                                
+        color: white;
+                                
+        font-size: 32px;
+        }
+            
+.purchase_button_footer{
+    background-color: #FF6162;
+    width: 6%;
+    padding: 15px;
+    color: white;
+    margin-top: 15px;
+    margin-left: 46%;
+    text-align: center;
+    font-size: 10px;
+}
+            
+footer{
+    background: #292640;
+    overflow: hidden;
+}
+
+
+.footer_image_on{
+
+
+}
+
+
+.footer_image_one img{
+
+    padding-left: 46%;
+    width: 9%;
+    margin-top: 1%;
+}
+     
+
+.footer_image_two{
+
+
+}
+
+.footer_image_two img{
+    float: right;
+    width: 4%;
+    padding: 0px 10px 10px;
+
+}
+
+
+.feature_four img,.feature_five img, .feature_six img{
+
+width: 110px;
+        
+
+}
+
+.feature_one p, .feature_two p, .feature_three p, .feature_four p, .feature_five p, .feature_six P{
+
+    color: #696872;
+}
+
+
+.vertical_line{
+
+
+}
+
+
+.vertical_line img{
+    height: 102px;
+    margin: 168.5px 5px 168.5px 734px;
+}
